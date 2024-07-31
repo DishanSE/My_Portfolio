@@ -1,8 +1,6 @@
-Sure! Here's a simple README file for your portfolio website:
 
----
 
-# Portfolio Website
+# Responsive Portfolio Website - AR Dishan
 
 ## Overview
 This is a personal portfolio website created to showcase my skills, projects, and background. The website is built using HTML, CSS, and JavaScript and includes sections for Home, About, Projects, and Contact Me.
